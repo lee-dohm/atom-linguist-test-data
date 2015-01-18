@@ -1,6 +1,6 @@
 # Atom Linguist Test Data
 
-This is a repository of files to use to test the accuracy of [Atom Linguist's][atom-linguist] file type classification. The goal, of course, is that Atom Linguist should always be able to classify the contents of this repository with 100% accuracy as measured by the system in [this blog post][accuracy].
+This is a repository of files to use to measure the accuracy of [Atom Linguist's][atom-linguist] file type classification. The goal, of course, is that Atom Linguist should always be able to classify the contents of this repository with 100% accuracy as measured by the system in [this blog post][accuracy].
 
 ## Structure
 
